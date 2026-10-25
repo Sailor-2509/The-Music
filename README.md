@@ -8,7 +8,7 @@ the i opened the scamatic editor and added the components
 I added the footprints
 <img width="959" height="565" alt="Screenshot 2026-10-25 222448" src="https://github.com/user-attachments/assets/66301d5e-cf3c-456d-a47a-a86dbbd1d4a8" />
 Then by this button I entered in the pcb editor
-<img width="150" height="96" alt="Screenshot 2026-10-18 233040" src="https://github.com/user-attachments/assets/d0291b50-ffac-4fa1-8363-9a6de2d758f5" /> Then I had to convet The footprints editor components to pcb editor so i used this button
+<img width="150" height="96" alt="Screenshot 2026-10-18 233040" src="https://github.com/user-attachments/assets/d0291b50-ffac-4fa1-8363-9a6de2d758f5" />Then I had to convet The footprints editor components to pcb editor so i used this button
 <img width="229" height="73" alt="Screenshot 2026-10-25 225738" src="https://github.com/user-attachments/assets/8e4e09cc-f0dd-4d74-bf9a-b68600656831" />
 
 
