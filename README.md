@@ -11,7 +11,9 @@ I added the footprints
 Then by this button I entered in the pcb editor
 <img width="150" height="96" alt="Screenshot 2026-10-18 233040" src="https://github.com/user-attachments/assets/d0291b50-ffac-4fa1-8363-9a6de2d758f5" />Then I had to convet The footprints editor components to pcb editor so i used this button
 <img width="229" height="73" alt="Screenshot 2026-10-25 225738" src="https://github.com/user-attachments/assets/8e4e09cc-f0dd-4d74-bf9a-b68600656831" /> after converting i aranged them <img width="518" height="184" alt="Screenshot 2026-10-25 233516" src="https://github.com/user-attachments/assets/64adf6cf-fe7c-4feb-a2e1-98acfaf7f765" />And wired it <img width="521" height="186" alt="Screenshot 2026-10-25 233706" src="https://github.com/user-attachments/assets/ec03684e-a1f3-4cf7-b995-8e91821c97f4" />Than i saw it in 3D view <img width="458" height="162" alt="Screenshot 2026-10-25 233844" src="https://github.com/user-attachments/assets/af677c60-5879-45dc-9118-33687fbb70a1" />
-After that my PCB work was done then I started dusighing my 3D moddel now
+After that my PCB work was done then I started dusighing my 3D moddel now it was done i bacically made a base plate and extruded it <img width="550" height="401" alt="Screenshot 2026-10-25 234935" src="https://github.com/user-attachments/assets/876484c9-191c-40a3-be47-a927a7f49363" />
+
+
 
 
 
